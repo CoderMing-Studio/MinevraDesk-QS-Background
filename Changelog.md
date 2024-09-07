@@ -1,6 +1,5 @@
 # QS Background
 
-## Versions
 
 ## Version 1.3 [Latest]
 ### Fixed
